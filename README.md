@@ -1,8 +1,9 @@
 # (P)Resident Evil: The Moncloa Nightmare
 
-> **"Vote or Die."**
+> ***"Vote or Die."***
 
-![Banner del Proyecto](./banner.png) **
+![Banner del Proyecto](./banner.png) 
+**
 
 Bienvenido al repositorio oficial de **(P)Resident Evil: The Moncloa Nightmare**, un videojuego satírico desarrollado por **Grupo Pantumaca**.
 

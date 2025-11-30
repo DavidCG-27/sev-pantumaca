@@ -16,8 +16,8 @@ A continuación, los detallamos uno a uno.
 
 ### Ciclo Jugador-Enemigo
 
-Jugador: Elige acción -> Ejecuta -> Impone acción sobre el enemigo.
-Enemigo: Lanza ataque -> Jugador recibe ataque -> Se le resta la vida correspondiente
+**Jugador**: Elige acción -> Ejecuta -> Impone acción sobre el enemigo.  
+**Enemigo**: Lanza ataque -> Jugador recibe ataque -> Se le resta la vida correspondiente.
 
 ---
 

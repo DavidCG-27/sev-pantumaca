@@ -26,7 +26,7 @@ Actualmente, la documentación se divide en los siguientes archivos:
 ### 3. Documentos de Diseño (GDD & Referencias)
 *Información extraída de la presentación de diseño unificado.*
 * **Estética:** Fotorrealismo oscuro inspirado en *Resident Evil 2 Remake* y *Misery Mansion*.
-* **Diseño de Nivel:** Estructura laberíntica de la Moncloa y resolución de puzles ("mini-debates") en escaleras bloqueadas.
+* **Diseño de Nivel:** Estructura laberíntica de la Moncloa y resolución de puzzles ("mini-debates") en escaleras bloqueadas.
 * **Arquitectura Técnica:** Diagrama de clases, *Blueprints* de Unreal (GameMode, PlayerController, etc.).
 
 ---
